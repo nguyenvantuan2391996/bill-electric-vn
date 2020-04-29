@@ -13,4 +13,4 @@
  6. Import bill then click button " Check Bill " to run project
  
                                     **********************************************
-Copyright by Tuan Nguyen Van. Please don't crack tool :D
+ - Copyright by Tuan Nguyen Van. Please don't crack tool :D
